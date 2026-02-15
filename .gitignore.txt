@@ -1,0 +1,23 @@
+# Ignore Visual Studio temporary files, build results, and publish output
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.userprefs
+*.resharper
+
+# Ignore NuGet packages
+*.nupkg
+*.snupkg
+packages/
+*.lock.json
+
+# Ignore JetBrains Rider project files
+.idea/
+
+# Ignore build logs
+*.log
+
+# Ignore publish output
+publish/
